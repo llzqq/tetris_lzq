@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/snake.dir/src/snake.cpp.o -o snake  -Wl,-rpath,/usr/local/lib /usr/local/lib/libSDL3.so.0.3.0 

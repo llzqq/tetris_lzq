@@ -1,0 +1,5 @@
+/home/lzq/tetris/lzqTetris/build/CMakeFiles/tetris_lib.dir
+/home/lzq/tetris/lzqTetris/build/CMakeFiles/tetris_lzq.dir
+/home/lzq/tetris/lzqTetris/build/CMakeFiles/snake.dir
+/home/lzq/tetris/lzqTetris/build/CMakeFiles/edit_cache.dir
+/home/lzq/tetris/lzqTetris/build/CMakeFiles/rebuild_cache.dir

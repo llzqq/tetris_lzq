@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tetris_lzq.dir/src/tetris.cpp.o -o tetris_lzq  -Wl,-rpath,/home/lzq/tetris/lzqTetris/build/lib lib/libtetris_lib.so -lpthread 

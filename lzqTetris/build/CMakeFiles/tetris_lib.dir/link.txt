@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libtetris_lib.so -o lib/libtetris_lib.so CMakeFiles/tetris_lib.dir/src/block.cpp.o CMakeFiles/tetris_lib.dir/src/table.cpp.o CMakeFiles/tetris_lib.dir/src/mythread.cpp.o 
